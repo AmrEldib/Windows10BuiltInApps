@@ -3,3 +3,5 @@
 PowerShell scripts to uninstall and install Windows 10 built-in apps.  
   
 [Information collected from HowToGeek](http://www.howtogeek.com/224798/how-to-uninstall-windows-10s-built-in-apps-and-how-to-reinstall-them/)  
+
+WARNING: Works on my machine. Use at your own risk.
