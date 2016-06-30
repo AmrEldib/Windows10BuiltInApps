@@ -1,0 +1,1 @@
+Get-AppxPackage *windowsphone* | Remove-AppxPackage

@@ -1,0 +1,1 @@
+Get-AppxPackage *solitairecollection* | Remove-AppxPackage
