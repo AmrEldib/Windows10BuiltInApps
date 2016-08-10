@@ -1,0 +1,23 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.3ds\Shell\3D Print]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.3mf\Shell\3D Print]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.bmp\Shell\T3D Print]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.dae\Shell\3D Print]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.dxf\Shell\3D Print]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.jpg\Shell\T3D Print]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.obj\Shell\3D Print]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.ply\Shell\3D Print]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.png\Shell\T3D Print]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.stl\Shell\3D Print]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.wrl\Shell\3D Print]
