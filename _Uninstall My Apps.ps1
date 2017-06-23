@@ -4,7 +4,7 @@ foreach($line in Get-Content '.\_AppsToRemove.conf') {
         Write-Output "Ran '$line'"
     }
     elseif ($line.EndsWith(".reg")) {
-        Invoke-Expression "regedit /s $line"
+        Invoke-Expression 'reg import "$line"'
         Write-Output "Ran '$line'"
     }
 }
