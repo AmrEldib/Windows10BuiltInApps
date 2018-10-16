@@ -1,0 +1,1 @@
+Get-AppxPackage *flaregamesGmbH.RoyalRevolt2* | Remove-AppxPackage

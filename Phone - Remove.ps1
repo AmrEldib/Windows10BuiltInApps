@@ -1,0 +1,1 @@
+Get-AppxPackage *CommsPhone* | Remove-AppxPackage

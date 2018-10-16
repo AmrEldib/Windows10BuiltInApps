@@ -1,0 +1,1 @@
+Get-AppxPackage *AutodeskSketchBook* | Remove-AppxPackage

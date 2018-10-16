@@ -1,0 +1,1 @@
+Get-AppxPackage *Microsoft.DrawboardPDF* | Remove-AppxPackage

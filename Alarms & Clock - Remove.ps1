@@ -1,0 +1,1 @@
+Get-AppxPackage *Microsoft.WindowsAlarms* | Remove-AppxPackage

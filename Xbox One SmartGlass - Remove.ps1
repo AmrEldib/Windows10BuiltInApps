@@ -1,0 +1,1 @@
+Get-AppxPackage *XboxOneSmartGlass* | Remove-AppxPackage

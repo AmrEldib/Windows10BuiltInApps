@@ -1,0 +1,1 @@
+Get-AppxPackage *Office.Sway* | Remove-AppxPackage

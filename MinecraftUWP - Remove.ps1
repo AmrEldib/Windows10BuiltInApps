@@ -1,0 +1,1 @@
+Get-AppxPackage *MinecraftUWP* | Remove-AppxPackage

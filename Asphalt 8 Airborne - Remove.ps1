@@ -1,0 +1,1 @@
+Get-AppxPackage *Microsoft.Asphalt8Airborne* | Remove-AppxPackage
